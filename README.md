@@ -1,6 +1,6 @@
 # find.sh
 
-Search your computer for a file
+If you dont know where you saved a file, use this script to search your computer its path
 
 - You can seach from the root directory with:
 
