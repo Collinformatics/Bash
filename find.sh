@@ -20,7 +20,7 @@ done
 
 # Inspect file
 if [[ -z "$filename" ]]; then
-  echo -e "${color}ERROR: No file was provided${rst}"
+  echo -e "${color}ERROR: No file was provided${colorR}"
   echo -e "Usage: $0"
   echo "Inputs:"
   echo "    -f <file name>"
